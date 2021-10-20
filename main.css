@@ -13,19 +13,18 @@ body {
 .site{
   text-align: center;
   margin: 0 auto;
-  width: 80%;
+  width: 88%;
   padding-top: 4rem;
 }
 .quote {
  
   text-transform: uppercase;
   font-size: 30px;
-  font-family: "Raleway";
+  font-family: 'Raleway', sans-serif;
   
 }
 author {
-  
+  font-family: 'Crimson Text', serif;
   font-size: 10px;
-  font-style:italic;
-  font-family: "Times New Roman";
+  font-style: italic;
 }
